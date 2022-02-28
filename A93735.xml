@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of two letters which Richard Stafford had intended to have delivered unto the King and Queen but not being admitted by the yeomen of the guard, he left them on the rails of the back- stairs at White-Hall, on January 26, 1689/90 : in each of which was inclosed a printed paper, entituled, A supplemental tract of government, referred to the consideration of the Lords and Commons assembled in Parliament, January 4, in the year aforementioned.</title>
+            <author>Stafford, Richard, 1663-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93735</idno>
+            <idno type="STC">Wing S5114</idno>
+            <idno type="STC">ESTC R42691</idno>
+            <idno type="EEBO-CITATION">38875598</idno>
+            <idno type="OCLC">ocm 38875598</idno>
+            <idno type="VID">152394</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152394)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2295:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of two letters which Richard Stafford had intended to have delivered unto the King and Queen but not being admitted by the yeomen of the guard, he left them on the rails of the back- stairs at White-Hall, on January 26, 1689/90 : in each of which was inclosed a printed paper, entituled, A supplemental tract of government, referred to the consideration of the Lords and Commons assembled in Parliament, January 4, in the year aforementioned.</title>
+                  <author>Stafford, Richard, 1663-1703.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Includes on second p.: The Case of Richard Stafford humbly offered to the consideration of both Houses of Parliament. (Not in Wing 2nd ed.)</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stafford, Richard, 1663-1703. --  Supplemental tract of government.</term>
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters">
+            <pb facs="tcp:152394:1"/>
+            <head>A Copy of two Letters which <hi>Richard Stafford</hi> had intended to have delivered unto the <hi>King</hi> and <hi>Queen,</hi> but not being admitted by the Yeomen of the Guard, he left them on the Rails of the back-Stairs at <hi>White-Hall,</hi> on <hi>January</hi> 26. 1689/96. In each of which was incloſed a Printed Paper, Entituled, A Supplemental Tract of Government, referred to the Conſide<g ref="char:EOLhyphen"/>ration of the <hi>Lords</hi> and <hi>Commons</hi> Aſſembled in <hi>Parliament, January</hi> 4. in the Year aforementioned.</head>
+            <div type="letter">
+               <head>To his Excellent Majeſty, King <hi>William.</hi>
+               </head>
+               <opener>
+                  <salute>May it pleaſe your Majeſty;</salute>
+               </opener>
+               <p>THe incloſed Paper doth contain a Manifeſtation and Application of Things out of the <hi>Word of God,</hi> which is true, and will be fulfilled. When it is ſuggeſted in a common matter, that by keeping unto a leſſer good one is in danger to be deprived of a greater, here is no Hatred or Indignation, but thanks for the Admonition. The Kingdom of Heaven doth as much exceed all the Kingdoms of this World, as the Son doth the Light of a Spark, which only aſcends a little height and expires into nothing: So whatever is moſt Great, Beautiful and Enduring here (if for ſome years) is not ſo much in compariſon to Eternal Glory and Happineſs. Every thing is to be laid aſide, which may forfit our Title to that; the Principles of Re<g ref="char:EOLhyphen"/>ſtitution and Juſtice are to be obſerved, if a man would have the favour of God, and be a partaker of his Crown and Reward: <hi>But he that doth wrong, ſhall receive for the wrong he hath done, and there is no reſpect of Perſons.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <head>To her Excellent Majeſty, Queen <hi>Mary.</hi>
+               </head>
+               <opener>
+                  <salute>Madam;</salute>
+               </opener>
+               <p>THe incloſed Paper doth ſhew that <hi>God is diſhonoured by the breach of his Law;</hi> a right ſence of, and zeal for his Glory may juſtifie any one in taking notice of it. Alſo it is Charity and Kindneſs to exhort and admoniſh one another to ceaſe from Sin and Tranſgreſſion, to prevent his Indignation here, and Puniſhment in the World to come. My earneſt Prayer and Deſire is that all People may uſe the right means to obtain Salvation; and that your Self would (above all things) make ſure of the <hi>real and enduring Happineſs.</hi>
+               </p>
+               <p>The firſt Letter was again carried to the Court at <hi>Kenſington</hi> on <hi>Fe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ruary</hi> 22. (and being ſent to a Lord of the Bed-Chamber in order to be preſented unto the King, it was by the Officer thrown into the Fire and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> burnt. Such is the Policy of Satan and his Inſtruments to hinder Men <note n="*" place="margin">See 56. 23, 24.</note> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om <hi>coming to the Knowledge of the Truth that they might be ſaved.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="legal_case">
+            <pb facs="tcp:152394:2"/>
+            <pb facs="tcp:152394:2"/>
+            <head>The <hi>CASE</hi> of <hi>Richard Stafford</hi> humbly offered to the Conſideration of both Houſes of Parliament.</head>
+            <p>WHereas <hi>Richard Stafford</hi> hath been, and ſtands yet indicted at Common Law, and hath ſuffered a Weeks Impriſonment in <hi>Newgate</hi> for certain Papers, entituled, <hi>A Supplemental Tract of Government,</hi> &amp;c. which he delivered in to the late Parliament on <hi>January</hi> 4. 1689. to which he made an Appearance at the laſt Seſſions at the <hi>Old-Bayley,</hi> and had Oyer of his Indictment, which did run in theſe words, <hi>viz. That the ſaid</hi> Richard Stafford <hi>did intend to raiſe difference and diſcord between the King and Queen, and their Peers and Great Men, and the Commons of this Kingdom of</hi> England <hi>in Parliament lately aſſembled,</hi> &amp;c. He the ſaid <hi>Richard Stafford</hi> did offer to this by way of Anſwer and Plea, That what he did was in <hi>full Parliament,</hi> and that he was introduced according to Form and Order into the Houſe of Lords, the Houſe then ſitting; and the Subſtance and Matter of the ſaid Paper, was referred to the Conſideration of the Lords and Commons; And if it did tend <hi>to breed difference and diſcord between the King and Queen and</hi> Them, Themſelves were the more proper Judges of what lay in their own breaſt, and whereof a Jury of 12 inferiour Men were not ſo fit to judge and deter<g ref="char:EOLhyphen"/>mine. And further it was alledged, That this Caſe did come within the reaſon of Stat. 1<hi rend="sup">o</hi>. <hi>Gulielmi &amp; Mariae,</hi> for declaring the Rights and Liberties of the Subject, and ſetling the Succeſſion of the Crown; wherein amongſt the ſeveral inſtances of mal-adminiſtration of the late Reign there recited, one was, <hi>By Proſecutions in the Court of the Kings-Bench for Matters and Cauſes cognizable only in Parliament:</hi> And it was a like Error there to proceed in a more inferiour Court for what belongs to their Conuſance. Though this Clauſe was inſerted in as to the Caſe of Mr. <hi>Williams,</hi> who was illegally proceeded againſt in the <hi>Kings-Bench,</hi> for what he did as Speaker in the Houſe of <hi>Commons;</hi> yet no publick Statute expreſſed in general words, is made to reach only one ſingle and particular Caſe, but it takes in all others of the like Nature and Reaſon. It is agreeable both to the Statute and Common Laws of this Kingdom, and to right Practice and Uſage, That things ſhould be heard where they are done: And that great and weighty matters (whereof the preſent, according to the Indictment, is the greateſt that can be, and may be ſtiled a Caſe of many Generations) ſhould be determined in the higheſt Courts of Judicatory. The reaſon why ſome things of this nature have been tryed at Common Law, is becauſe ſometimes of the long interval and ſpace of time between Parliaments, (and with this, if I miſtake not, they did palliate the proceedings againſt Mr. <hi>Williams)</hi> and ſo the Offender might eſcape Juſtice in the mean while, which would be a great inconvenience: Or if he lie only under ſuſpicion and doubt, his Tryal would be defer<g ref="char:EOLhyphen"/>red; or if he be falſly accuſed and charged, he is delayed from clearing and vindicating his own innocence in the mean while, which is a very great prejudice &amp; trouble to himſelf.</p>
+            <p>But here by a ſtrange Art and moſt wicked Corruption, of <hi>calling evil good, and good evil;</hi> of <hi>juſtifying the wicked for reward, and taking away the righteouſneſs of the righteous from him,</hi> Iſa. 5. 20. 23. by <hi>turning of things upſide down,</hi> Iſa. 29. 16. the aforeſaid <hi>Richard Stafford</hi> is charged to do a thing <hi>unlawfully, unjuſtly,</hi> and <hi>wickedly,</hi> when he doth only lay the Laws of God before Men; He doth endeavour (according to his Duty and the Grace committed unto him) to turn them from Iniquity unto Righteouſneſs. He doth ſay and affirm, That all the Words mentioned in the aforeſaid Papers are True, Signi<g ref="char:EOLhyphen"/>ficative, and will be certainly fulfilled. He doth come in the <hi>Name of Almighty God,</hi> and will make evident his Commiſſion, that he is really ſent, and hath more words to ſpeak out in Perſon <hi>viva voce,</hi> unto the Honourable Houſes of Parliament; Hoping that they will not be like their Forefathers, a Rebellious and Stubborn Generation, which refuſe to hear the Law of their God. It is Gods conſtant Method to ſpeak unto the World by thoſe of the ſame likeneſs with our ſelves; and he doth commonly raiſe up mean Perſons to convey forth his Truth unto Men, That the excellency ſhould be of God, and not of us. I dare not abuſe nor trifle with his <hi>Name,</hi> but am ready to explain the nature and meaning thereof, if I may be heard out throughly without any interruption. And ſo likewiſe, ye ought to take heed how ye reject it, for you will admit of things of leſſer moment. If another ſhould come from an Earthly Prince, or diſcover ſome new thing, or in a matter of Peace and War, of Rights or Priviledges, him will ye hear: But ye are apt to refuſe or diſregard, what hath relation to the immediate Government of him who is the <hi>Great King over all the Earth,</hi> and in ſubordination to that, is not only for the real Peace and Security of this whole Nation, but of the King<g ref="char:EOLhyphen"/>doms round about. If I ſpeak falſhood or folly, as I ſhould then be liable unto the Wrath and Judgment of the great God for taking his Name in vain, and making vile his Majeſty; ſo in the mean while, I contentedly ſubmit to be made an Example of your utmoſt Severity and Puniſhment, for diſturbing and interrupting your Counſels. But if I ſpeak Wiſdom and Truth, I ought to be hearkened unto.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
